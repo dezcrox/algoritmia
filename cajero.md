@@ -10,5 +10,16 @@ cuanto dinero puede y cuanto no me puede prestar
     imprime no te puedo prestar prestamo % 100
 fin
 
+##Corridas de escritorio
+prestamo = 650
+650 / 100 = 6
+650 % 100 = 50
 
 
+prestamo = 750
+750 / 100 = 7
+750 % 100 = 50
+
+prestamo = 550
+550 / 100 = 5
+550 % 100 = 50
